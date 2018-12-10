@@ -12,7 +12,7 @@ import java.util.*;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class ReceiptOutputTest {
+public class ReceiptFormatterTest {
 
     private IRounder rounder = new Rounder();
 
